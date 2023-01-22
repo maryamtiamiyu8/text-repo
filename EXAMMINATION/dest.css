@@ -1,0 +1,22 @@
+body{background-image: url(background-destination-desktop.jpg);background-size: 100%;}
+hr{width: 660px;margin-left: 100px;margin-top: -20px;color: grey;size: 1px;border-color: grey;}
+.font{color: lightslategray;display: flex;background-color:rgba(128,128,128,0.269);width: 600px;margin-left: 750px;margin-top: -30px;height: 50px;text-align: center;text-decoration: none;padding-top: -10px;}
+.home{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+.dest{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+.crew{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+.tech{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+a:hover{border-bottom: 2px solid white;}
+.text{padding-left: 100px;padding-top: 100px;}
+.num{color: gray;font-size: 20px;}
+.pick{padding-left: 10px;color: white;letter-spacing: 3px;}
+.text1{padding-left: 800px;margin-top: -550px;}
+.moon{color: white;word-spacing: 10px;}
+.mars{text-decoration: white;color: white;}
+.mar{font-size: 50px;letter-spacing: 3px;color: white;font-weight: 600;}
+.do{color: white;font-size: 15px;}
+hr.d0{margin-left: -10px;width: 500px;}
+.text2{margin-top: 30px;}
+.ayg{color: gray;font-size: 13px;font-family: calibri;}
+.est{margin-left: 100px;}
+.mill{margin-top: 10px;color: white;font-size: 20px;font-family: calibri;}
+.month{margin-left: 75px;}

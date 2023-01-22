@@ -1,0 +1,19 @@
+body{background-image: url(background-crew-desktop.jpg);background-size: 100%;}
+hr{width: 660px;margin-left: 100px;margin-top: -20px;color: grey;size: 1px;border-color: grey``;}
+.font{color: lightslategray;display: flex;background-color:rgba(128,128,128,0.269);width: 600px;margin-left: 750px;margin-top: -35px;height: 50px;text-align: center;text-decoration: none;padding-top: -10px;}
+.home{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+.dest{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+.crew{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+.tech{padding-top: 20px;padding-left: 40px;word-spacing: 1px;text-decoration: none;color: white;font-size: 13px;}
+a:hover{border-bottom: 2px solid white;}
+.text{padding-left: 100px;padding-top: 100px;}
+.num{color: gray;font-size: 20px;}
+.meet{padding-left: 10px;color: white;letter-spacing: 3px;}
+.flight{padding-top: 100px;font-family: calibri;font-size: 30px;color: gray;}
+.anou{font-weight: 100;letter-spacing: 5px;color:white;font-size: 30px;padding-top: 20px;}
+.ansari{color: white;font-size: 15px;}
+.img{padding-left: 700px;margin-top: -510px;margin-bottom: -147;}
+.br{border-radius: 30px;height: 300px;color: goldenrod;width: 300px;}
+.dots{color: grey;font-size: 100px;}
+.dot{color: white;font-size: 100px;}
+.then{padding-left: 100px;}
